@@ -11,7 +11,7 @@ These five images should be manipulated so that one is black, dark gray, gray, l
 
 Save all the five images under one parent directory.
 
-The code will only generate grayscale images, so for best conversion be sure to desaturize the large image to be constructed.
+The code will only generate grayscale images, so for best conversion be sure to desaturate the large image to be constructed.
 
 To preserve the quality of the five images comprising the collage, blow up the image to be converted to as large a size as possible,    that way a larger "box size" can be used (AKA more pixels per little image)
 
